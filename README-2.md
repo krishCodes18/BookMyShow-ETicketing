@@ -1,7 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&width=700&lines=🎟️+BookMyShow;E-Ticketing+System" alt="Typing SVG" />
-
+<svg width="700" height="120" viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#E53935;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF7043;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text x="350" y="62" font-family="Georgia, serif" font-size="52" font-weight="900" fill="url(#titleGrad)" text-anchor="middle" letter-spacing="2">🎟️ BookMyShow</text>
+  <text x="350" y="100" font-family="Georgia, serif" font-size="22" font-weight="400" fill="#888888" text-anchor="middle" letter-spacing="6">E - T I C K E T I N G   S Y S T E M</text>
+</svg>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
